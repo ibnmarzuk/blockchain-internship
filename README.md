@@ -1,6 +1,6 @@
 # Blockchain Internship Program – InternCareerPath
 
-**Intern Name:** Abdurrahman Suleiman  
+**Intern Name:** Abdurrahman Suleiman Bature    
 **Domain:** Blockchain  
 **Intern Ref ID:** ICP-A4C2SL-2026  
 **Repo ID:** REPO-CRUK  
@@ -38,7 +38,7 @@ blockchain-internship/
 ```
 
 ## Author
-**Abdurrahman Suleiman**  
+**Abdurrahman Suleiman Bature**  
 GitHub: [@ibnmarzuk](https://github.com/ibnmarzuk)  
 Twitter: [@ibn_marzuk](https://twitter.com/ibn_marzuk)
 
